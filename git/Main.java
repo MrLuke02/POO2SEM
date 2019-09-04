@@ -10,5 +10,6 @@ package git;
  * @author LABORATORIO 01
  */
 public class Main {
+    System.out.println("Hello World!")
     
 }
